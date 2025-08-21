@@ -1,6 +1,6 @@
 <html lang="en">
 <head>
-    <title>Hello World</title>
-    <p style="color:blue;font:19"</p>
+    <title style="color:blue;font:19"> Hello World </title>
+    <p style="color:blue;font:19"> Learning GitHUB ! </p>
 </head>
 </html>
