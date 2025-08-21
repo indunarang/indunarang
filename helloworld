@@ -3,5 +3,5 @@
 <head>
     <meta charset="UTF-8">
     <title>Hello World</title>
-    <p style="color:blue;font=19"</p>
+    <p style="color:blue;font:19"</p>
 </head>
